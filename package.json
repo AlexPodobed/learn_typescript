@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPodobed/learn_typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPodobed/learn_typescript/issues"
+  },
+  "homepage": "https://github.com/AlexPodobed/learn_typescript#readme",
+  "dependencies": {
+    "knockout": "^3.4.0"
+  }
+}
